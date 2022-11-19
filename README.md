@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning about software development
 - 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me ...
+- 📫 How to reach me by email: davicho.DLgmail.com
 
 <!---
 aldahirlascano/aldahirlascano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
